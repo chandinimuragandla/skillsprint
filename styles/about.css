@@ -282,3 +282,28 @@ font-weight: bold;
 .img3 h3{
     margin-left: 150px;
 }
+marquee img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding: 5px;
+}
+.box1{
+    height: 80px;
+    width: 100%;
+    
+    background-color: whitesmoke;
+}
+.box2{
+    height: 80px;
+    width: 100%;
+    
+    background-color: whitesmoke;
+   
+}
+@media screen and (min-width: 750px){
+
+
+}
+    
+
