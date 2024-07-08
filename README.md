@@ -1,6 +1,7 @@
 Welcome to SkillSprint, a comprehensive platform for seamless real estate transactions. This document provides an overview of the project, including setup instructions, features, and contribution guidelines.
 
 Table of Contents
+
 Features
 Tech Stack
 Getting Started
@@ -8,6 +9,7 @@ Development
 Contributing
 License
 Contact
+
 Features:
 Comprehensive Listings: Browse a variety of properties with detailed descriptions, images, and courses.
 User-Friendly Interface: An intuitive design that makes navigating and using the platform easy.
